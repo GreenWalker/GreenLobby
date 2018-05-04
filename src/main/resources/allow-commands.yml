@@ -1,0 +1,17 @@
+allowed:
+ - /alterarsenha
+ - /registrar
+ - /l
+ - /login
+ - /logar
+ - /reg
+ - /email
+ - /verificar
+ - /gmail
+ - /outlook
+ - /hotmail
+ - /sair
+ - /quit
+ - /logout
+ - /desregistrar
+ - /captcha

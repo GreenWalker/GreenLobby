@@ -1,0 +1,10 @@
+name: ${bukkitplugin.name}
+main: ${bukkitplugin.main}
+version: ${bukkitplugin.version}
+authors: [${bukkitplugin.authors}]
+website: empirelands.net
+softdepend: [EmpireLogin]
+commands:
+ help:
+  aliases: ['?', 'pls', 'plug', 'plugin', 'bukkit']
+  description: Testa ai

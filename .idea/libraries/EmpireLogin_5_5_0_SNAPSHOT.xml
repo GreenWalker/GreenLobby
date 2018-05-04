@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EmpireLogin-5.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AuthMeReloadedFork/target/EmpireLogin-5.5.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AuthMeReloadedFork/target/EmpireLogin-5.5.0-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>

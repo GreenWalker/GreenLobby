@@ -1,0 +1,10 @@
+not_have_space_in_inventory: '&cVocê não possuí espaço em seu inventário!'
+first_slot_is_busy: '&cSeu Primeiro slot está ocupado!'
+bow_name: '&aArco &dMágico'
+bow_lore:
+ - '&7Em breve &6VIP''s poderam ter flechas'
+ - '&7Ilimitadas! aguarde...'
+arrow_name: '&bFlecha &dMágica'
+arrow_lore:
+ - '&7Esta flecha te teleportará para onde acertar!'
+ - '&c&lNÃO &7atire em outros jogadores!'
